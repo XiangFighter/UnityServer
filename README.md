@@ -1,2 +1,3 @@
 # UnityServer
-unity客户端和服务器
+this project is used to learn how to connect the unity Client and Server.
+The server is code by C++
