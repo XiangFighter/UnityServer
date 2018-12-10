@@ -1,0 +1,5 @@
+﻿  UserInfoManager.cpp
+d:\loginexampleserver\loginexampleserver\userinfomanager.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+  CommandDispatcher.cpp
+  正在生成代码...
+  LoginExampleServer.vcxproj -> D:\LoginExampleServer\Debug\LoginExampleServer.exe
